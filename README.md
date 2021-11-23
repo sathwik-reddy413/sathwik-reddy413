@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 ## Reddy
 ## <h1> sathwik is a good boy</h1>
 *hello* ***world***
-!![image](https://user-images.githubusercontent.com/84559055/142842795-eb1e4ac7-d84c-4acb-9868-d8a1ce592beb.png)
 ![image](https://user-images.githubusercontent.com/84559055/142846071-2f153d86-afff-4ab0-81b8-1eaf4b4ccb03.png)
 
