@@ -24,3 +24,29 @@ Here are some ideas to get you started:
 |1|SATHWIK|563|CSE|
 |2|MADHU|565|CSE|
 |3|SAHITH|530|CSE|
+# ORDERED LIST
+1. EEE
+2. CSE
+3. ECE
+4. MECH
+# UNORDERED LIST
+- EEE
+- ECE
+- CSE
+
+* EEE
+* ECE
+* CSE
+
+# NESTED LIST
+1. ECE
+  - CSE
+  - EEE
+
+```python code
+a=10
+if a%2==0:
+print("even number")
+else
+print("odd number")
+```
