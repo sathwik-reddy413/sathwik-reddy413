@@ -14,8 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Reddy
+# Reddy
 ## <h1> sathwik is a good boy</h1>
 *hello* ***world***
 ![image](https://user-images.githubusercontent.com/84559055/142846071-2f153d86-afff-4ab0-81b8-1eaf4b4ccb03.png)
 [google]https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.news18.com%2Fibnlive%2Fuploads%2F2021%2F10%2Fms-dhoni-1600-final-ipl.jpg&imgrefurl=https%3A%2F%2Fwww.news18.com%2Fcricketnext%2Fnews%2Fright-now-were-just-in-november-ms-dhoni-breaks-silence-on-playing-for-csk-in-ipl-2022-4467161.html&tbnid=JF9HSLkx7V02eM&vet=12ahUKEwi_4bTV0630AhWyQ3wKHQkkCeMQMygCegUIARDKAQ..i&docid=sFh06hw3ACbZoM&w=1600&h=1600&itg=1&q=dhoni&ved=2ahUKEwi_4bTV0630AhWyQ3wKHQkkCeMQMygCegUIARDKAQ
+| S.No | NAME | ROLL.NO | BRANCH |
+|------|------|---------|--------|
+|1|SATHWIK|563|CSE|
+|2|MADHU|565|CSE|
+|3|SAHITH|530|CSE|
